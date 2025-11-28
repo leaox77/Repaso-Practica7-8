@@ -7,8 +7,13 @@ Clona el repositorio en tu máquina local usando el siguiente comando:
 git clone https://github.com/leaox77/Repaso-Practica7-8.git
 ```
 
+## Navegar al directorio del proyecto
+```bash
+cd Repaso-Practica7-8
+```
+
 ## Instalar dependencias
-Navega al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias
+Ejecuta el siguiente comando para instalar las dependencias
 ```bash
 npm install
 ```
